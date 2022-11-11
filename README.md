@@ -1,4 +1,4 @@
-# Storage-Buffer-manager-and-B-Tree
+# Database Management System
 Clone the git repo and run following command to build and run the project. Once the build command is run, it will create a binary names `assignment`. Here are the commands,
 
     cd assign1_storage_manager # enter the first assignment directory
